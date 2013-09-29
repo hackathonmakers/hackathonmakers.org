@@ -16,17 +16,19 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	<title>Hackaton Litoral 2013</title>
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
-	<meta name="author" content="humans.txt">
+	<meta name="description" content="Del 11 al 13 de Octubre nos juntamos en Santa Fe a generar soluciones innovadoras para los problemas de la ciudad." />
+	<meta name="keywords" content="Hackathon, desarrollo moviles,moviles ciudad,santa fe, innovacion, unl, fich, 2013, hackathon litoral" />
+	<meta name="robots" content="Index, All">
+	<meta name="robots" CONTENT="Index, Follow">
+	<meta name="revisit-after" content="10 days">
 
 	<link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
 
 	<!-- Facebook Metadata /-->
 	<meta property="fb:page_id" content="" />
-	<meta property="og:image" content="" />
-	<meta property="og:description" content=""/>
-	<meta property="og:title" content=""/>
+	<meta property="og:image" content="http://fich.unl.edu.ar/hackathon2013/images/logo-hackathon-2013.jpg" />
+	<meta property="og:description" content="Del 11 al 13 de Octubre nos juntamos en Santa Fe a generar soluciones innovadoras para los problemas de la ciudad. Inscribite y se parte de la solucion!"/>
+	<meta property="og:title" content="#hackatonlitoral 2013"/>
 
 	<!-- Google+ Metadata /-->
 	<meta itemprop="name" content="">
