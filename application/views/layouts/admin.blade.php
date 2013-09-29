@@ -36,6 +36,11 @@
   <div class="container">
     @yield('content')
   </div>
+  <div class="footer">
+  	<div class="row">
+  		<strong>Copyright © Hackathon Litoral 2013. </strong>
+  	</div>
+  </div>
 
 
   <!-- build:js scripts/scripts.js -->
