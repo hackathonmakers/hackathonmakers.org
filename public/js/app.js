@@ -7,6 +7,10 @@ angular.module('App', ['seo','App.controllers'])
         templateUrl: 'views/main.html',
         controller: 'main'
       })
+      .when('/agenda', {
+        templateUrl: 'views/agenda.html',
+        controller: 'agenda'
+      })
       .otherwise({
         redirectTo: '/'
       });

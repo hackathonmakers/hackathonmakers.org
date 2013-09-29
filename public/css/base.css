@@ -7,8 +7,15 @@ However, this blank file is available if you prefer
 .white {
   color:white;
 }
+.white a {
+  color:white;
+}
 
 .icon-big{
   zoom: 2 !important;
 }
 
+.centered{
+
+  text-align: center;
+}

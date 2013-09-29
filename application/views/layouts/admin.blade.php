@@ -51,12 +51,12 @@
 		<div class="row">
 			<a class="toggle" gumby-trigger="#nav1 > .row > ul" href="#"><i class="icon-menu"></i></a>
 			<h3 class="four columns logo white">
-				#hackatonlitoral
+				<a href="/#">#hackatonlitoral</a>
 			</h3>
 			<ul class="eight columns">
-				<li><a href="#">Agenda</a></li>
-				<li><a href="#">Inscribite</a></li>
-				<li><a href="#">Subi tu idea!</a></li>
+				<li><a href="#/agenda">Agenda</a></li>
+				<li><a href="#/inscribite">Inscribite</a></li>
+				<li><a target="_blank" href="http://hacksf2013.hackdash.org/">Subi tu idea!</a></li>
 				<li class="field white">
 					<i class="icon-facebook-circled icon-big"></i>
 					<i class="icon-twitter-circled icon-big"></i>
@@ -64,14 +64,18 @@
 				</li>
 			</ul>
 		</div>
-	</div><div class="container">
+	</div>
+	<div class="container">
     @yield('content')
-  </div>
-  <div class="footer">
-  	<div class="row">
-  		<strong>Copyright © Hackathon Litoral 2013. </strong>
   	</div>
-  </div>
+
+	  <div class="wrapper shaded" id="subfoot">
+	  	<section class="row">
+	      <div class="twelve columns centered">
+	      		<p>Copyright © Hackathon Litoral 2013.</p>
+	       </div>
+	  	</section>
+	  </div>
 
 
   <!-- build:js scripts/scripts.js -->
@@ -86,6 +90,7 @@
   <script src="js/libs/gumby.min.js"></script>
 
   <script src="js/controllers/main.js"></script>
+  <script src="js/controllers/agenda.js"></script>
   <script src="js/services/libs/localStorage.js"></script>
 
   <script src="js/app.js"></script>
