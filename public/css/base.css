@@ -19,3 +19,29 @@ However, this blank file is available if you prefer
 
   text-align: center;
 }
+
+.wrapper.shaded {
+  background-color:#BFF5CC !important;
+  background-size: cover;
+}
+body {
+  color: #3B884E;;
+}
+
+.navbar {
+  background: #6dbb80;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+  color: #6dbb80;
+
+}
+
+
+  .navbar a:hover {
+    background: #BFF5CC;
+  }
+  .navbar a:active, .navbar a.toggle.active {
+    background: #BFF5CC;
+  }
