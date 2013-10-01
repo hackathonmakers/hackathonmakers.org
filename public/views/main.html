@@ -56,9 +56,18 @@
 
   <h1> ¿Qué es un hackaton? </h1>
     <p>Un  hackathon (acrónimo de las palabras &quot;hack&quot; y &quot;maratón&quot;),  también conocido como <em>hackfest</em> o <em>codefest,</em> es un evento en el personas inquietas de distintas disciplinas (tecnologia, diseño, arquitectura, medicina, comunicacion, gobierno)  trabajan colaborativamente en el desarrollo de innovaciones destinadas a solucionar problemas de la comunidad. </p>
-     <h1> ¿Qué proyectos salen de hackatons? </h1>
-
-  <h1> ¿Quién organiza?</h1>
+ <h1> ¿Qué proyectos salieron de hackatons? </h1>
+ <div class="row">
+ <div ng-repeat="p in projects">
+  <div class="six columns">
+    <img class="small pic" ng-src="{{p.pic}}"/>
+    <h4> {{p.hack}} <small>{{p.where}}</small></h4>
+    <p> {{p.description}}</p>
+    <small> {{p.apis}} </small>
+  </div>
+ </div>
+</div>
+<h1> ¿Quién organiza?</h1>
   <p>Es organizado por la FICH, con el auspicio del Ministerio de la Producción de la Provincia de Santa Fé.</p>
 </div>
 <div class="row">

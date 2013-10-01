@@ -40,8 +40,17 @@ h1, h2, h3, h4, h5, h6 {
 
 
   .navbar a:hover {
-    background: #BFF5CC;
+    background: #6dbb80;
   }
   .navbar a:active, .navbar a.toggle.active {
-    background: #BFF5CC;
+    background: #6dbb80;
+  }
+
+
+
+  .small.pic{
+
+  max-width: 150px;
+  width: 150px;
+
   }
