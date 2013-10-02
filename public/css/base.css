@@ -3,7 +3,9 @@ We highly recommend you use SASS and write your custom styles in sass/_custom.sc
 However, this blank file is available if you prefer
 */
 
-
+.soluciones h4 {
+  padding: 14px 0;
+}
 .white {
   color:white;
 }
@@ -41,10 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 .icons.field.white .row {
   width: 200px;
 }
-.row.soluciones .row {
-  border: 10px;
-  padding: 16px;
-}
+
 .navbar ul li > a {
 
   text-shadow: none;
@@ -71,5 +70,18 @@ a:hover{
 
     max-width: 150px;
     width: 150px;
+
+  }
+.row.soluciones .row {
+  border: 0;
+  padding: 0;
+}
+.title{ display:none;}
+  only screen and (min-device-width: 768px){
+    .title{ display:block;}
+    .row.soluciones .row {
+      border: 10px;
+      padding: 16px;
+    }
 
   }
