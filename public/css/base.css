@@ -81,6 +81,9 @@ color: #6dbb80;
 .icons.field.white .row {
   width: auto;
 }
+ h1 {
+  font-weight:  bold;
+  }
 @media only screen and (min-width: 768px){
 
   .show-tablet{ display:block;}
