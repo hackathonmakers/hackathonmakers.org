@@ -52,17 +52,29 @@
   <div class="navbar" id="nav1">
 		<div class="row">
 			<a class="toggle" gumby-trigger="#nav1 > .row > ul" href="#"><i class="icon-menu"></i></a>
-			<h3 class="four columns logo white">
+			<h4 class="four columns logo white">
 				<a href="/#">#hackatonlitoral</a>
-			</h3>
+			</h4>
 			<ul class="eight columns">
 				<li><a href="#/agenda">Agenda</a></li>
-				<li><a href="#/inscribite">Inscribite</a></li>
+				<li><a href="http://fich.unl.edu.ar/hackathon2013/inscripcion.php">Inscribite</a></li>
 				<li><a target="_blank" href="http://hacksf2013.hackdash.org/">Subi tu idea!</a></li>
-				<li class="field white">
-					<i class="icon-facebook-circled icon-big"></i>
-					<i class="icon-twitter-circled icon-big"></i>
-					<i class="icon-tumblr-circled icon-big"></i>
+				<li class="icons field white">
+					<div class="row">
+
+							<a href="http://www.facebook.com/events/1450927081799187/" target="_blank">
+								<i class="icon-facebook-circled icon-big"></i></a>
+
+
+							<a href="http://twitter.com/hackatonlitoral" target="_blank">
+								<i class="icon-twitter-circled icon-big"></i>
+							</a>
+
+							<a href="http://tumblr.com/hackatonlitoral" target="_blank">
+								<i class="icon-tumblr-circled icon-big"></i>
+							</a>
+
+					</div>
 				</li>
 			</ul>
 		</div>
@@ -75,6 +87,22 @@
 	  	<section class="row">
 	      <div class="twelve columns centered">
 	      		<p>Copyright © Hackathon Litoral 2013.</p>
+	      		<div class="row">
+
+							<a href="http://www.facebook.com/events/1450927081799187/" target="_blank">
+								<i class="icon-facebook-circled icon-big"></i></a>
+
+
+							<a href="http://twitter.com/hackatonlitoral" target="_blank">
+								<i class="icon-twitter-circled icon-big"></i>
+							</a>
+
+							<a href="http://tumblr.com/hackatonlitoral" target="_blank">
+								<i class="icon-tumblr-circled icon-big"></i>
+							</a>
+
+					</div>
+
 	       </div>
 	  	</section>
 	  </div>

@@ -9,6 +9,7 @@ However, this blank file is available if you prefer
 }
 .white a {
   color:white;
+  display: inline-block !important;
 }
 
 .icon-big{
@@ -37,20 +38,38 @@ h1, h2, h3, h4, h5, h6 {
   color: #6dbb80;
 
 }
+.icons.field.white .row {
+  width: 200px;
+}
+.row.soluciones .row {
+  border: 10px;
+  padding: 16px;
+}
+.navbar ul li > a {
 
+  text-shadow: none;
+}
+.gumby-no-touch .navbar ul li:hover > a,
+.gumby-touch .navbar ul li.active > a {
+    position: relative;
+    background: #4CA562 !important;
+    z-index: 1000;
+}
 
-  .navbar a:hover {
-    background: #6dbb80;
-  }
-  .navbar a:active, .navbar a.toggle.active {
-    background: #6dbb80;
-  }
-
-
+a
+{
+   color: #6dbb80;
+}
+a:hover{
+  color:#4CA562;
+}
+.navbar ul li .icons > a {
+  display: inline-block !important;
+}
 
   .small.pic{
 
-  max-width: 150px;
-  width: 150px;
+    max-width: 150px;
+    width: 150px;
 
   }
