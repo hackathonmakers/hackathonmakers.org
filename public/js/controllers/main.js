@@ -11,7 +11,7 @@ angular.module('App.controllers',[])
         link: "http://hipo-hackathonmdq.herokuapp.com/",
         hack: "Hipo",
         where: "MDQ",
-        description: "Mezclando el clima, gustos personales y lugares, te entrega alternativas para disfrutar la ciudad en el dia.",
+        description: "Te dice que es lo que podés hacer hoy para empezar el día en Mar del Plata!",
         apis: "Clima, FourSquare, MDQ Cultura"
       });
       $scope.projects.push({
@@ -23,22 +23,21 @@ angular.module('App.controllers',[])
         apis: "Bicis BA, Mapa BA"
       });
       $scope.projects.push({
-        pic:"/img/km404.png",
-        hack: "KM404",
-        link: "http://hipo.herokuapp.com/",
+        pic:"http://hackmdq.hackdash.org/uploads/1e541c5b8b60cf61afa532e7d928c3e4.jpg",
+        link: "hhttps://play.google.com/store/apps/details?id=com.coffeeandcookies.estacionamientomdq",
+        hack: "Parker",
         where: "MDQ",
-        description: "Mezclando el clima, gustos personales y lugares, te entrega alternativas para disfrutar la ciudad en el dia.",
-        techs: "Wheather, FourSquare, MDQ Cultura"
+        description: "Estaciona en Mar Del Plata con un solo tap!",
+        apis: "Estacionamiento, mobile"
       });
       $scope.projects.push({
         pic:"/img/kiwi.png",
-        link: "http://hipo.herokuapp.com/",
+        link: "http://blog.palamago.com.ar/2013/05/kiwi-estacion-automatizada-de-bicicletas-prototipo/",
         hack: "Kiwi",
         where: "BA",
-        description: "Mezclando el clima, gustos personales y lugares, te entrega alternativas para disfrutar la ciudad en el dia.",
-        apis: "Kiwi, kiwi"
+        description: "Sistema para automatizar las estaciones de bicicletas mediante SMS.",
+        apis: "arduino, raspberry, nodejs, sockets, bicicletas, mobile"
       });
-
 
 
 

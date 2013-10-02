@@ -1,6 +1,6 @@
 <div class="row">
   <div class="six columns">
-    <h1 class="title"><strong> #hackatonlitoral </strong></h1>
+    <h1 class="show-tablet"><strong> #hackatonlitoral </strong></h1>
   </div>
 </div>
 <div class="row">
@@ -57,12 +57,11 @@
   </div>
 
  <div class="row">
-  <h1> ¿Cúando ?</h1>
+    <div class="six columns">
+   <h1> ¿Cúando ?</h1>
     <p>Se llevará  a cabo del <strong>11 al 13 de octubre de 2013</strong></p>
-      </div>
- <div class="row">
   <h1> ¿Dónde ?</h1>
-  <div class="six columns">
+
      <p>En Facultad de Ingeniería y Ciencias Hídricas</p>
      <p>Universidad Nacional del Litoral</p>
      <p>
@@ -70,8 +69,8 @@
       </strong></p>
         <p><strong>Santa Fé, Argentina</strong>
   </div>
-    <div class="six columns">
-      <img src="http://maps.google.com/maps/api/staticmap?center=-31.6404087,-60.6722833&zoom=12&size=600x150&maptype=roadmap&sensor=false&language=&markers=color:green|label:none|-31.6404087,-60.6722833" title="Ciudad Universitaria Santa Fe  Argentina"  style="border:1px solid #CECECE;">
+      <div class="six columns">
+      <img src="http://maps.google.com/maps/api/staticmap?center=-31.6404087,-60.6722833&zoom=13&size=400x500&maptype=roadmap&sensor=false&language=&markers=color:green|label:none|-31.6404087,-60.6722833" title="Ciudad Universitaria Santa Fe  Argentina"  style="border:1px solid #CECECE;">
     </div>
 </div>
 
@@ -84,8 +83,8 @@
 
    <div ng-repeat="p in projects">
       <div class="six columns soluciones">
-        <img class="small pic" ng-src="{{p.pic}}"/>
-        <h4> {{p.hack}} <small>{{p.where}}</small></h4>
+       <a href="{{p.link}}" target="_blank"> <img class="small pic" ng-src="{{p.pic}}"/>
+        <h4> {{p.hack}} <small>{{p.where}}</small></h4></a>
         <p> {{p.description}}</p>
         <small> {{p.apis}} </small>
       </div>

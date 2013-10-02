@@ -5,6 +5,7 @@ However, this blank file is available if you prefer
 
 .soluciones h4 {
   padding: 14px 0;
+  font-size: 1.625rem;
 }
 .white {
   color:white;
@@ -40,9 +41,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #6dbb80;
 
 }
-.icons.field.white .row {
-  width: 200px;
-}
 
 .navbar ul li > a {
 
@@ -50,14 +48,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 .gumby-no-touch .navbar ul li:hover > a,
 .gumby-touch .navbar ul li.active > a {
-    position: relative;
-    background: #4CA562 !important;
-    z-index: 1000;
+  position: relative;
+  background: #4CA562 !important;
+  z-index: 1000;
 }
 
 a
 {
-   color: #6dbb80;
+ color: #6dbb80;
 }
 a:hover{
   color:#4CA562;
@@ -66,22 +64,44 @@ a:hover{
   display: inline-block !important;
 }
 
-  .small.pic{
+.small.pic{
 
-    max-width: 150px;
-    width: 150px;
 
-  }
+  height: 150px;
+  overflow: hidden;
+
+}
 .row.soluciones .row {
   border: 0;
   padding: 0;
 }
-.title{ display:none;}
-  only screen and (min-device-width: 768px){
-    .title{ display:block;}
-    .row.soluciones .row {
-      border: 10px;
-      padding: 16px;
-    }
+.show-tablet{ display:none;}
+.icons.field.white .row {
+  width: auto;
+}
+@media only screen and (min-width: 768px){
 
+  .show-tablet{ display:block;}
+  .icons.field.white .row {
+    width: 200px;
   }
+  .row.soluciones .row {
+    border: 10px;
+    padding: 16px;
+  }
+  .soluciones h4 {
+    font-size: 1.125rem;
+  }
+  h1 {
+     font-size: 3.625rem;
+     font-weight:  bold;
+  }
+
+}
+@media only screen and (min-width: 1024px){
+
+  .soluciones h4 {
+    padding: 14px 0;
+    font-size: 1.625rem;
+  }
+}
