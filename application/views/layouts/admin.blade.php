@@ -36,6 +36,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+  <script type="text/javascript"src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD4ZXkREbaqNu06-W9cswKg3ZnI6TWrHLI&sensor=false"></script>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
@@ -97,12 +98,11 @@
   <script src="js/libs/moment.min.js"></script>
   <script src="js/libs/modernizr-2.0.6.min.js"></script>
   <script src="js/libs/gumby.min.js"></script>
-
-  <script type="text/javascript"src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4ZXkREbaqNu06-W9cswKg3ZnI6TWrHLI&sensor=false"></script>
   
   <script src="js/controllers/main.js"></script>
   <script src="js/controllers/agenda.js"></script>
   <script src="js/services/libs/localStorage.js"></script>
+
 
   <script src="js/app.js"></script>
 
