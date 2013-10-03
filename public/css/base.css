@@ -1,77 +1,219 @@
-/*
-We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
-However, this blank file is available if you prefer
-*/
-
-.soluciones h4 {
-  padding: 14px 0;
-  font-size: 1.625rem;
-}
-.white {
-  color:white;
-}
-.white a {
-  color:white;
-  display: inline-block !important;
+body {
+  font-family: "PT Sans", sans-serif;
+  color: #333;
 }
 
-.icon-big{
-  zoom: 2 !important;
-}
-
-.centered{
-
+/* Header */
+header .logo {
+  width: 56.36364%;
+  min-width: 620px;
+  padding: 20px 30px;
+  border: 4px solid #2CC990;
+  margin: 60px auto;
+  margin-bottom: 0;
   text-align: center;
 }
 
-.wrapper.shaded {
-  background-color:#BFF5CC !important;
-  background-size: cover;
-}
-body {
-  color: #3B884E;;
+header .logo a {
+  color: #2CC990;
 }
 
-.navbar {
-  background: #6dbb80;
-}
-
-h1, h2, h3, h4, h5, h6 {
-
-  color: #6dbb80;
-
-}
-
-.navbar ul li > a {
-
-  text-shadow: none;
-}
-.gumby-no-touch .navbar ul li:hover > a,
-.gumby-touch .navbar ul li.active > a {
+/* Nav */
+.nav {
+  background: white;
+  margin-bottom: 40px;
+  width: 100%;
+  min-height: 60px;
+  display: block;
+  margin-bottom: 20px;
   position: relative;
-  background: #4CA562 !important;
+}
+
+.nav ul {
+  display: table;
+  vertical-align: middle;
+  margin: 0;
+  float: none;
+}
+
+.nav ul li > a {
+  display: block;
+  padding: 0 16px;
+  white-space: nowrap;
+  height: 60px;
+  line-height: 58px;
+  font-size: 16px;
+  font-size: 1rem;
+}
+
+.nav .row {
+  max-width: none;
+  padding: 0;
+}
+.nav .row .eight.columns {
+  width: 56.36364%;
+  min-width: 620px;
+  margin: 0 auto;
+}
+
+.nav ul li {
+  text-align: center;
+  width: 33.33%;
+  display: block;
+  float: left;
+  padding-bottom: 0;
+  margin: 0;
+  height: 60px;
+  line-height: 58px;
+}
+
+.nav ul li > a {
+  color: #333;
+  text-shadow: none;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -transition: all 0.3s;
+}
+
+.gumby-no-touch .nav ul li:hover > a,
+.gumby-touch .nav ul li.active > a {
+  position: relative;
   z-index: 1000;
+  background: #2CC990;
+  color: white;
 }
 
-a
-{
- color: #6dbb80;
+/* Intro */
+.intro {
+  margin: 70px auto;
+  text-align: center;
 }
-a:hover{
-  color:#4CA562;
+
+.intro h2 {
+  font-weight: 400;
 }
-.navbar ul li .icons > a {
-  display: inline-block !important;
+
+.inscribite a {
+  display: block;
+  width: 300px;
+  padding: 20px 30px;
+  border: 2px solid #2CC990;
+  margin: 10px auto;
+  margin-bottom: 0;
+  text-align: center;
+  color: #2CC990;
+  font-size: 24px;
+
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -transition: all 0.3s;
 }
+.inscribite a:hover {
+  color: white;
+  background: #2CC990;
+}
+
+
+/* About */
+.about {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.about p {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+/* Soluciones */
+.soluciones h1 {
+  text-align: center;
+}
+
+.soluciones .row {
+  max-width: 820px;
+}
+.soluciones .row .item {
+  width: 33.33%;
+  float: left;
+  text-align: center;
+}
+
+/* Mapa */
+.where {
+  position: relative;
+  padding: 0;
+  margin: 60px 0;
+  max-width: none;
+}
+
+.where .mobile-map {
+  display: none;
+}
+
+.where #map-canvas {
+  width: 100%;
+  height: 400px;
+}
+
+.where .info {
+  position: absolute;
+  height: 100%;
+  padding: 0 40px;
+  background: rgba(255,255,255,0.8);
+  top: 0;
+  left: 140px;
+  z-index: 100;
+}
+
+.where .info h2 {
+  font-weight: bold;
+}
+
+/* ORG */
+.organiza {
+  margin: 60px auto;
+}
+
+.organiza a.org {
+  display: block;
+  float: left;
+  width: 21%;
+  margin: 20px 2%;
+}
+.organiza a.org img {
+  width: 100%;
+}
+
+
+/* Varios */
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-color: #6dbb80;
+  color: #333;
 }
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+  color: #000;
+}
+
+.icon-big{
+  font-size: 40px !important;
+}
+
+.centered{
+  text-align: center;
+}
+
+#subfoot {
+  background-color:#2CC990 !important;
+  color: white;
+}
+#subfoot a {
+  color: white;
+}
+
+
 .small.pic{
-
-
   height: 150px;
   overflow: hidden;
-
 }
 .row.soluciones .row {
   border: 0;
@@ -81,11 +223,55 @@ color: #6dbb80;
 .icons.field.white .row {
   width: auto;
 }
- h1 {
-  font-weight:  bold;
-  }
-@media only screen and (min-width: 768px){
 
+@media only screen and (max-width: 767px){
+  header .logo{
+    width: 300px;
+    min-width: 300px;
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .inscribite a {
+    width: 270px;
+    min-width: 270px;
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .nav ul {
+    min-width: 0px !important;
+  }
+  .nav ul li {
+    float: none;
+    width: 300px;
+    min-width: 300px;
+    margin: 0 auto;
+  }
+
+  .soluciones .row .item {
+    width: 100%;
+    margin: 10px 0;
+    float: none;
+    text-align: center;
+  }
+
+  .where .info {
+    position: static;
+  }
+  .where #map-canvas {
+    display: none;
+  }
+  .where .mobile-map {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 768px){
+  .where .info {
+    left: 0;
+  }
+}
+
+@media only screen and (min-width: 768px){
   .show-tablet{ display:block;}
   .icons.field.white .row {
     width: 200px;
@@ -101,12 +287,20 @@ color: #6dbb80;
      font-size: 3.625rem;
      font-weight:  bold;
   }
-
 }
-@media only screen and (min-width: 1024px){
 
+@media only screen and (min-width: 1024px){
   .soluciones h4 {
     padding: 14px 0;
     font-size: 1.625rem;
   }
+}
+
+/* AGENDA */
+.agenda {
+  text-align: center;
+}
+
+.agenda .inscribite {
+  margin: 60px 0;
 }
