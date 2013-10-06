@@ -14,7 +14,7 @@
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <title>Hackaton Litoral 2013</title>
+  <title>Hackaton Litoral 2013 - 11 OCT 19HS FICH Santa Fé</title>
   <meta name="description" content="Del 11 al 13 de Octubre nos juntamos en Santa Fe a generar soluciones innovadoras para los problemas de la ciudad." />
   <meta name="keywords" content="Hackathon, desarrollo moviles,moviles ciudad,santa fe, innovacion, unl, fich, 2013, hackathon litoral" />
   <meta name="robots" content="Index, All">
@@ -25,14 +25,14 @@
 
   <!-- Facebook Metadata /-->
   <meta property="fb:page_id" content="" />
-  <meta property="og:image" content="http://fich.unl.edu.ar/hackathon2013/images/logo-hackathon-2013.jpg" />
+  <meta property="og:image" content="http://hackatonlitoral.herokupapp.com/img/hackatonlitoral_fb.jpg" />
   <meta property="og:description" content="Del 11 al 13 de Octubre nos juntamos en Santa Fe a generar soluciones innovadoras para los problemas de la ciudad. Inscribite y se parte de la solucion!"/>
   <meta property="og:title" content="#hackatonlitoral 2013"/>
 
   <!-- Google+ Metadata /-->
-  <meta itemprop="name" content="">
-  <meta itemprop="description" content="">
-  <meta itemprop="image" content="">
+  <meta itemprop="name" content="#hackatonlitoral 2013">
+  <meta itemprop="description" content="Del 11 al 13 de Octubre nos juntamos en Santa Fe a generar soluciones innovadoras para los problemas de la ciudad. Inscribite y se parte de la solucion!">
+  <meta itemprop="image" content="http://hackatonlitoral.herokupapp.com/img/hackatonlitoral_fb.jpg">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
@@ -74,7 +74,7 @@
       <div class="twelve columns centered">
           <p>Copyright © Hackathon Litoral 2013.</p>
           <div class="row">
-            <a href="http://www.facebook.com/events/1450927081799187/" target="_blank"> 
+            <a href="http://www.facebook.com/events/1450927081799187/" target="_blank">
               <i class="icon-facebook-circled icon-big"></i>
             </a>
             <a href="http://twitter.com/hackatonlitoral" target="_blank">
@@ -98,7 +98,7 @@
   <script src="js/libs/moment.min.js"></script>
   <script src="js/libs/modernizr-2.0.6.min.js"></script>
   <script src="js/libs/gumby.min.js"></script>
-  
+
   <script src="js/controllers/main.js"></script>
   <script src="js/controllers/agenda.js"></script>
   <script src="js/services/libs/localStorage.js"></script>
