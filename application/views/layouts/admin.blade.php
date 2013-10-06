@@ -21,11 +21,11 @@
   <meta name="robots" CONTENT="Index, Follow">
   <meta name="revisit-after" content="10 days">
 
-  <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="http://hackatonlitoral.herokuapp.com/favicon.png" type="image/x-icon" />
 
   <!-- Facebook Metadata /-->
   <meta property="fb:page_id" content="" />
-  <meta property="og:image" content="http://hackatonlitoral.herokupapp.com/img/hackatonlitoral_fb.jpg" />
+  <meta property="og:image" content="http://hackatonlitoral.herokuapp.com/img/hackatonlitoral_fb_logo.png" />
   <meta property="og:description" content="Del 11 al 13 de Octubre nos juntamos en Santa Fe a generar soluciones innovadoras para los problemas de la ciudad. Inscribite y se parte de la solucion!"/>
   <meta property="og:title" content="#hackatonlitoral 2013"/>
 
