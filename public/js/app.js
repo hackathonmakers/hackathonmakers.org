@@ -11,6 +11,10 @@ angular.module('App', ['seo','App.controllers'])
         templateUrl: 'views/agenda.html',
         controller: 'agenda'
       })
+      .when('/faq', {
+        templateUrl: 'views/faq.html',
+        controller: 'faq'
+      })
       .otherwise({
         redirectTo: '/'
       });
