@@ -21,7 +21,7 @@
   <meta name="robots" CONTENT="Index, Follow">
   <meta name="revisit-after" content="10 days">
 
-  <link rel="shortcut icon" href="http://hackatonlitoral.herokuapp.com/favicon.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="http://hackatonlitoral.herokuapp.com/favicon.png" type="image/png" />
 
   <!-- Facebook Metadata /-->
   <meta property="fb:page_id" content="" />
