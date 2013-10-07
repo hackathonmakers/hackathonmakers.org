@@ -57,7 +57,7 @@
 
   <nav class="nav" id="nav1">
     <div class="row">
-      <ul class="nine columns">
+      <ul class="ten columns">
         <li><a href="#/agenda">Agenda</a></li>
         <li><a href="http://fich.unl.edu.ar/hackathon2013/inscripcion.php">Inscribite</a></li>
         <li><a target="_blank" href="http://hacksf2013.hackdash.org/">Subi tu idea!</a></li>
