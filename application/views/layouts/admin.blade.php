@@ -60,7 +60,7 @@
       <ul class="eight columns">
         <li><a href="#/agenda">Agenda</a></li>
         <li><a href="http://fich.unl.edu.ar/hackathon2013/inscripcion.php">Inscribite</a></li>
-        <li><a target="_blank" href="http://hacksf2013.hackdash.org/">Subi tu idea!</a></li>
+        <li><a target="_blank" href="http://hacksf2013.hackdash.org/">Subí tu idea!</a></li>
         <li><a href="#/faq">faq</a></li>
       </ul>
     </div>

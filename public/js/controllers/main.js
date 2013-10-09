@@ -44,7 +44,7 @@ angular.module('App.controllers',[])
         hack: "Mejor En Bici",
         link: "http://ecobici.buenosaires.gob.ar/",
         where: "BA",
-        description: "Utilizando informacion sobre ciclovías se creó el primer Mapa de Red de Ciclovías",
+        description: "Utilizando información sobre ciclovías se creó el primer Mapa de Red de Ciclovías",
         apis: "Bicis BA, Mapa BA"
       });
       $scope.projects.push({
