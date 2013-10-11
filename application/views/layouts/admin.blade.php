@@ -61,7 +61,8 @@
         <li><a href="#/agenda">Agenda</a></li>
         <li><a href="http://fich.unl.edu.ar/hackathon2013/inscripcion.php">Inscribite</a></li>
         <li><a target="_blank" href="http://hacksf2013.hackdash.org/">Subí tu idea!</a></li>
-        <li><a href="#/faq">faq</a></li>
+        <li><a href="#/reglas">Reglas</a></li>
+        <li><a href="#/faq">FAQ</a></li>
       </ul>
     </div>
   </nav>
@@ -102,6 +103,8 @@
 
   <script src="js/controllers/main.js"></script>
   <script src="js/controllers/agenda.js"></script>
+  <script src="js/controllers/reglas.js"></script>
+  <script src="js/controllers/faq.js"></script>
   <script src="js/services/libs/localStorage.js"></script>
 
 
