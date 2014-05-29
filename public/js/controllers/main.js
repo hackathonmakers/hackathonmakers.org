@@ -2,31 +2,7 @@
 angular.module('App.controllers',[])
 .controller('main', ['$scope', function ($scope, localStorageService, points) {
 
-      //Map
-      var mapOptions = {
-        center: new google.maps.LatLng(-31.6404087, -60.7022833),
-        zoom: 14,
-        scrollwheel: false,
-        mapTypeId: google.maps.MapTypeId.ROADMAP
-      };
-      
-      var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
-
-      var marker = new google.maps.Marker({
-          position: new google.maps.LatLng(-31.6404087, -60.6722833),
-          map: map
-      });
-
-      var center;
-      function calculateCenter() {
-        center = map.getCenter();
-      }
-      google.maps.event.addDomListener(map, 'idle', function() {
-        calculateCenter();
-      });
-      google.maps.event.addDomListener(window, 'resize', function() {
-        map.setCenter(center);
-      });
+     
 
 
       $scope.projects = [];
