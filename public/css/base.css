@@ -254,6 +254,18 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     text-align: center;
   }
 
+.round {
+margin: 3em;
+display: inline-block;
+position: relative;
+overflow: hidden;
+width: 200px;
+height: 200px;
+-moz-border-radius: 200px;
+border-radius: 200px;
+-webkit-border-radius: 200px;
+}
+
   .where .info {
     position: static;
   }
