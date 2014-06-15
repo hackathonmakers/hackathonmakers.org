@@ -122,6 +122,7 @@ header .logo a {
 .about p {
   max-width: 760px;
   margin: 0 auto;
+text-align: center;
 }
 
 /* Soluciones */
