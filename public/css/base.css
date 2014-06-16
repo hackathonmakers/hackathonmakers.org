@@ -177,6 +177,11 @@ header .logo a {
 .organiza a.org img {
     width: 100%;
 }
+
+.row .logo_item img{
+max-height: 100%;
+  max-width: 100%;
+}
 /* Varios */
 
 h1 a,
