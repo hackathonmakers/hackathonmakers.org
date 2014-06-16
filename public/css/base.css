@@ -316,5 +316,6 @@ h6 a:hover {
 }
 .logo_item {
     max-height: 200px;
+    max-width: 300px;
     text-align: center;
 }
