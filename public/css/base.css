@@ -178,6 +178,12 @@ header .logo a {
  max-height: 100%;
   max-width: 100%;
 }
+
+.logo_item {
+    max-height: 200px;
+    max-width: 300px;
+    text-align: center;
+}
 /* Varios */
 
 h1 a,
@@ -309,9 +315,4 @@ h6 a:hover {
 }
 .agenda .inscribite {
     margin: 60px 0;
-}
-.logo_item {
-    max-height: 200px;
-    max-width: 300px;
-    text-align: center;
 }
