@@ -113,9 +113,17 @@ header .logo a {
     text-align: center;
 }
 /* Soluciones */
-
-.soluciones h1 {
+.desafios.seven.columns{
+  margin-left: 0;
+}
+.soluciones h1, .soluciones h4, .soluciones h6 {
     text-align: center;
+}
+.soluciones i {
+  font-size: 100px !important;
+}
+.soluciones p {
+  text-align: center;
 }
 .soluciones .row {
     max-width: 820px;
@@ -231,6 +239,9 @@ h6 a:hover {
     width: auto;
 }
 @media only screen and (max-width: 767px) {
+    .soluciones i {
+      font-size: 42px !important;
+    }
     header .logo {
         width: 300px;
         min-width: 300px;
