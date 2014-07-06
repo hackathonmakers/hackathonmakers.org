@@ -134,7 +134,7 @@ header .logo a {
     text-align: center;
 }
 .round {
-    margin: 3em;
+    margin-top: 2em;
     display: inline-block;
     position: relative;
     overflow: hidden;
