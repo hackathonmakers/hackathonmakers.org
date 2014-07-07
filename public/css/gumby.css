@@ -511,13 +511,15 @@ abbr {
   width: 20%;
 }
 .row .four.columns {
-  width: 27.27273%;
+  width: 33.33%;
+  margin-left: 0 !important;
 }
 .row .five.columns {
   width: 34.54545%;
 }
 .row .six.columns {
-  width: 41.81818%;
+  width: 50%;
+  margin-left: 0 !important;
 }
 .row .seven.columns {
   width: 49.09091%;

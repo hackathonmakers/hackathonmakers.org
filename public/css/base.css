@@ -134,7 +134,7 @@ header .logo a {
     text-align: center;
 }
 .round {
-    margin-top: 2em;
+    margin-top: 2xem;
     display: inline-block;
     position: relative;
     overflow: hidden;
@@ -143,6 +143,14 @@ header .logo a {
     -moz-border-radius: 200px;
     border-radius: 200px;
     -webkit-border-radius: 200px;
+}
+div.days .item {
+    width: 33.33%;
+    float: left;
+}
+div.item-2 {
+    width: 50%;
+    float: left;
 }
 /* Mapa */
 
