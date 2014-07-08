@@ -2,6 +2,10 @@ body {
     font-family: "PT Sans", sans-serif;
     color: #333;
 }
+
+.logo{
+    margin: 5px;
+}
 /* Header */
 
 header .logo {
