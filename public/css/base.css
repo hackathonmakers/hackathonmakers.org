@@ -148,14 +148,19 @@ header .logo a {
     border-radius: 200px;
     -webkit-border-radius: 200px;
 }
-div.days .item {
-    width: 33.33%;
-    float: left;
+
+@media only screen and (min-width: 768px) {
+    div.days .item {
+        width: 33.33%;
+        float: left;
+    }
+    div.item-2 {
+        width: 50%;
+        float: left;
+    }
 }
-div.item-2 {
-    width: 50%;
-    float: left;
-}
+
+
 /* Mapa */
 
 .where {
