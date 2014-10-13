@@ -3,10 +3,15 @@
  * GET home page.
  */
 
-exports.index = function(req, res){
-  res.render('index', { title: 'Express' });
+
+exports.parana2014 = function(req, res){
+  res.render('parana-2014/index', { title: 'Express' });
 };
 
-exports.nuIndex = function(req, res){
-  res.render('2015/index', { title: 'Express' });
+exports.santafe2013 = function(req, res){
+  res.render('santafe-2013/index', { title: 'Express' });
+};
+
+exports.home = function(req, res){
+  res.render('hackaton-makers/index', { title: 'Express' });
 };

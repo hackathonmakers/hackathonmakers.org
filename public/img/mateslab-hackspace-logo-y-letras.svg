@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   width="632"
+   height="102"
+   sodipodi:docname="mateslab-hackspace-logo.svg"
+   inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/mateslab-hackspace-logo-5.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:stockid="SemiCircleIn"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="SemiCircleIn"
+       style="overflow:visible">
+      <path
+         id="path4180"
+         d="m -0.37450702,-0.04569258 c 0,2.75999998 2.24000002,4.99999998 5.00000002,4.99999998 l 0,-10 c -2.76,0 -5.00000002,2.24 -5.00000002,5.00000002 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3996"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient5590">
+      <stop
+         style="stop-color:#678ca9;stop-opacity:1;"
+         offset="0"
+         id="stop5592" />
+      <stop
+         style="stop-color:#678ca9;stop-opacity:0;"
+         offset="1"
+         id="stop5594" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3777">
+      <stop
+         style="stop-color:#678ca9;stop-opacity:1;"
+         offset="0"
+         id="stop3779" />
+      <stop
+         id="stop3785"
+         offset="0.50853568"
+         style="stop-color:#678ca9;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#678ca9;stop-opacity:0;"
+         offset="1"
+         id="stop3781" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3757">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.60897434;"
+         offset="0"
+         id="stop3759" />
+      <stop
+         id="stop3773"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0.74901961;" />
+      <stop
+         id="stop3771"
+         offset="0.01242691"
+         style="stop-color:#000000;stop-opacity:0.64313725;" />
+      <stop
+         id="stop3769"
+         offset="0.46637425"
+         style="stop-color:#000000;stop-opacity:0.42745098;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3761" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5590"
+       id="linearGradient5600"
+       x1="292.42664"
+       y1="311.41101"
+       x2="292.92697"
+       y2="345.51642"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94682261,0,0,1.1399997,-8.3905685,-47.759223)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.3444445"
+     inkscape:cx="378.24023"
+     inkscape:cy="108.76918"
+     inkscape:window-x="-1"
+     inkscape:window-y="-15"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     id="g3015">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       transform="matrix(0.46081168,0,0,0.47528845,-110.54394,-90.918526)"
+       d="m 427.68596,297.7438 a 38.677685,32.727272 0 1 1 -77.35537,0 38.677685,32.727272 0 1 1 77.35537,0 z"
+       sodipodi:ry="32.727272"
+       sodipodi:rx="38.677685"
+       sodipodi:cy="297.7438"
+       sodipodi:cx="389.00827"
+       id="path3988"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.38409662;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:9.42179947;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       transform="matrix(0.42114464,0,0,0.78689232,-94.433737,-164.14934)"
+       d="m 415.78512,259.80991 a 28.264463,6.6942148 0 1 1 -56.52892,0 28.264463,6.6942148 0 1 1 56.52892,0 z"
+       sodipodi:ry="6.6942148"
+       sodipodi:rx="28.264463"
+       sodipodi:cy="259.80991"
+       sodipodi:cx="387.52066"
+       id="path3218"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.9381659;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 68.597661,41.58286 C 85.226657,19.1099 85.226657,19.1099 85.226657,19.1099 l 0,0"
+       inkscape:path-effect="#path-effect3996"
+       id="path3994"
+       d="m 68.597661,41.58286 16.628996,-22.47296 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.48940325;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       inkscape:connector-curvature="0"
+       id="path4636"
+       d="m 47.227202,71.95176 c -8.37268,-7.66707 -10.038336,-23.6221 -4.237877,-34.81384 1.228485,-2.37033 2.745143,-4.46909 4.468429,-6.195"
+       style="fill:none;stroke:#000000;stroke-width:2.53577995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       transform="matrix(1.8964647,-0.0774632,0.08656375,2.0296278,-720.59453,-674.27249)"
+       d="m 378.44483,390.00778 c -9.4971,-7.14495 -10.93469,-21.05546 -3.83858,-30.38939 1.5029,-1.97686 3.33243,-3.70114 5.39058,-5.09018"
+       sodipodi:t0="0.89887553"
+       sodipodi:argument="-20.869736"
+       sodipodi:radius="23.000795"
+       sodipodi:revolution="2.9855111"
+       sodipodi:expansion="1"
+       sodipodi:cy="374.25122"
+       sodipodi:cx="391.83066"
+       id="path4872"
+       style="fill:none;stroke:#000000;stroke-width:1.29137695;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="spiral" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       transform="matrix(1.0860758,-0.06646294,0.07954984,1.2449475,-384.4491,-421.15394)"
+       d="m 358.15315,421.15234 c -11.349,-9.17975 -12.51351,-26.31623 -3.40074,-37.46707 1.93001,-2.36166 4.25006,-4.39922 6.83626,-6.01541"
+       sodipodi:t0="0.89887553"
+       sodipodi:argument="-20.834606"
+       sodipodi:radius="28.249779"
+       sodipodi:revolution="2.9855111"
+       sodipodi:expansion="1"
+       sodipodi:cy="402.38937"
+       sodipodi:cx="375.26331"
+       id="path4878"
+       style="fill:none;stroke:#000000;stroke-width:2.17649937;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="spiral" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       style="fill:none;stroke:#000000;stroke-width:2.53577995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 91.276766,71.98001 c 8.295242,-7.74727 9.800534,-23.71754 3.887908,-34.85294 -1.252243,-2.35839 -2.789912,-4.44245 -4.53045,-6.1517"
+       id="path4880"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       sodipodi:type="spiral"
+       style="fill:none;stroke:#000000;stroke-width:1.29137695;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4882"
+       sodipodi:cx="391.83066"
+       sodipodi:cy="374.25122"
+       sodipodi:expansion="1"
+       sodipodi:revolution="2.9855111"
+       sodipodi:radius="23.000795"
+       sodipodi:argument="-20.869736"
+       sodipodi:t0="0.89887553"
+       d="m 378.44483,390.00778 c -9.4971,-7.14495 -10.93469,-21.05546 -3.83858,-30.38939 1.5029,-1.97686 3.33243,-3.70114 5.39058,-5.09018"
+       transform="matrix(-1.8962792,-0.08169674,-0.09129464,2.0294292,862.63158,-672.61186)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       sodipodi:type="spiral"
+       style="fill:none;stroke:#000000;stroke-width:2.17649937;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4884"
+       sodipodi:cx="375.26331"
+       sodipodi:cy="402.38937"
+       sodipodi:expansion="1"
+       sodipodi:revolution="2.9855111"
+       sodipodi:radius="28.249779"
+       sodipodi:argument="-20.834606"
+       sodipodi:t0="0.89887553"
+       d="m 358.15315,421.15234 c -11.349,-9.17975 -12.51351,-26.31623 -3.40074,-37.46707 1.93001,-2.36166 4.25006,-4.39922 6.83626,-6.01541"
+       transform="matrix(-1.0864378,-0.06053099,-0.07244986,1.2453625,520.03954,-423.42203)" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/nakin/mishiru/mateslab/logos/logo_mateslab_a_1.png"
+       transform="scale(1.4306124,0.69900135)"
+       sodipodi:linespacing="125%"
+       id="text4886"
+       y="84.94342"
+       x="47.96743"
+       style="font-size:32.26026917px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Visitor TT1 BRK;-inkscape-font-specification:Visitor TT1 BRK Bold"
+       xml:space="preserve"><tspan
+         style="font-size:20.96917534px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Kochi Gothic;-inkscape-font-specification:Kochi Gothic"
+         y="84.94342"
+         x="47.96743"
+         id="tspan4888"
+         sodipodi:role="line">M</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:62.27562714px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Dancing in the Minefields;-inkscape-font-specification:Dancing in the Minefields"
+     x="611.80505"
+     y="67.555199"
+     id="text3009"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3011"
+       x="611.80505"
+       y="67.555199"
+       style="font-size:48.43659973px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:HelveticaNeueLight;-inkscape-font-specification:HelveticaNeueLight Light">MatesLab hackspace</tspan></text>
+</svg>
