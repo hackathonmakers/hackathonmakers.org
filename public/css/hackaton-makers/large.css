@@ -1,0 +1,8 @@
+/* 1024 */
+@media screen and (min-width: 64em) {
+  
+  div.parallax{
+    min-height: 100vh;
+    display: table;
+  }
+}

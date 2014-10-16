@@ -1,3 +1,107 @@
 body,p,h1,h2,h3,h4,h5,h6 {
   font-family: 'Lato' !important;
+  text-align: center;
 }   
+
+.parallax {
+  width:100%;
+  background-position: center;
+  background-size:   cover;                    
+  background-repeat: no-repeat;
+  position: relative;
+  display: table;
+}
+
+.round {
+  margin-top: 2xem;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  -moz-border-radius: 200px;
+  border-radius: 200px;
+  -webkit-border-radius: 200px;
+}
+
+.personas .row .item {
+  width: 33.33%;
+  float: left;
+  text-align: center;
+}
+.row.sponsors{
+  max-width: 975px;
+}
+
+a.cta {
+  display: block;
+  width: 300px;
+  padding: 20px 30px;
+  border: 2px solid #314EA8;
+  margin: 20px auto;
+  text-align: center;
+  color: #314EA8;
+  font-size: 24px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -transition: all 0.3s;
+  background: #FFFFFF;
+}
+a.cta:hover {
+    color: white;
+    background: #314EA8;
+}
+
+div.parallax{
+
+}
+div.parallax:nth-child(1) {
+  background-image:url('/img/2015/background01.jpg');
+}
+div.parallax:nth-child(2) {
+  background-image:url('/img/2015/background03.jpg');
+}
+div.parallax:nth-child(3) {
+  background-image:url('/img/2015/background04.jpg');
+}
+div.parallax:nth-child(4) {
+  background-image:url('/img/2015/background05.jpg');
+}
+div.parallax:nth-child(5) {
+  background-image:url('/img/2015/background06.jpg');
+}
+div.parallax:nth-child(6) {
+  background-image:url('/img/2015/background07.jpg');
+}
+div.parallax:nth-child(7) {
+  background-image:url('/img/2015/background08.jpg');
+}
+div.parallax:nth-child(8) {
+  background-image:url('/img/2015/background09.jpg');
+}
+/*div.parallax div.background{
+  min-height: 100vh;
+  display: table;
+  width: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+  opacity: 0.3;
+
+}
+div.parallax div.row {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  top: 0;
+} */
