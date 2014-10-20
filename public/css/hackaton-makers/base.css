@@ -59,37 +59,43 @@ div.parallax:nth-child(1) {
   background-image:url('/img/2015/background01.jpg');
 }
 div.parallax:nth-child(2) {
-  background-image:url('/img/2015/background03.jpg');
+  background-image:url('/img/2015/background02.jpg');
 }
 div.parallax:nth-child(3) {
-  background-image:url('/img/2015/background04.jpg');
+  background-image:url('/img/2015/background03.jpg');
 }
 div.parallax:nth-child(4) {
-  background-image:url('/img/2015/background05.jpg');
+  background-image:url('/img/2015/background04.jpg');
 }
 div.parallax:nth-child(5) {
-  background-image:url('/img/2015/background06.jpg');
+  background-image:url('/img/2015/background05.jpg');
 }
 div.parallax:nth-child(6) {
-  background-image:url('/img/2015/background07.jpg');
+  background-image:url('/img/2015/background06.jpg');
 }
 div.parallax:nth-child(7) {
-  background-image:url('/img/2015/background08.jpg');
+  background-image:url('/img/2015/background07.jpg');
 }
 div.parallax:nth-child(8) {
+  background-image:url('/img/2015/background08.jpg');
+}
+div.parallax:nth-child(9) {
   background-image:url('/img/2015/background09.jpg');
 }
 
 div.detail.row{
-  background: rgba(255, 255, 255, 0.61);
+  background: rgba(255, 255, 255, 0.65);
   padding-left: 4em;
-  
   display: table-cell;
   vertical-align: middle;
   /*max-width: 40%;
   width: 40%;*/
 }
 
+div.detail div.copy {
+  margin: auto;
+  width: 70%;
+}
 
 /*div.parallax div.background{
   min-height: 100vh;
