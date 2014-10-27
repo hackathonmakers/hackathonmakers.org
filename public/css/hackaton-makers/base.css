@@ -92,33 +92,12 @@ div.detail.row {
 div.detail div.copy {
     margin: auto;
     width: 70%;
-}
-/*div.parallax div.background{
-  min-height: 100vh;
-  display: table;
-  width: 100%;
-  width: 100%;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  position: relative;
-  filter: blur(5px);
-  -webkit-filter: blur(5px);
-  -moz-filter: blur(5px);
-  -o-filter: blur(5px);
-  -ms-filter: blur(5px);
-  filter: blur(5px);
-  opacity: 0.3;
 
 }
-div.parallax div.row {
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin-left: auto;
-  margin-right: auto;
-  top: 0;
-} */
+
+div.copy p {
+  font-size: 1.015em;
+}
 
 div.navbar {
     position: fixed;
@@ -127,4 +106,12 @@ div.navbar {
     z-index: 1;
     top: 0;
     left: 0;
+}
+
+
+img.icon{
+  width: 150px;
+}
+img.icon-medium{
+  width: 75px;
 }
