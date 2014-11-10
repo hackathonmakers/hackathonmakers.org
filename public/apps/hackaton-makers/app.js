@@ -11,7 +11,7 @@ angular.module('hm-app', [
   //'hm-app.filters',
   //'hm-app.services',
   //'hm-app.factories',
-  //'hm-app.directives',
+  'hm-app.directives',
   'hm-app.controllers',
   'ngRoute',
 ]).config(function ($routeProvider) {

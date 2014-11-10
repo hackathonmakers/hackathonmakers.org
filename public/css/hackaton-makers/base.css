@@ -115,3 +115,29 @@ img.icon{
 img.icon-medium{
   width: 75px;
 }
+
+div.background-row{
+  position: relative;
+}
+div.background-image {
+  position: absolute;
+  text-align: center;
+  top: 0;
+  left: 0;
+  margin: auto;
+  width: 100%;
+  opacity: 0.8
+}
+div.background-image {
+  position: absolute;
+  text-align: center;
+  top: 0;
+  left: 0;
+  margin: auto;
+  width: 100%;
+  opacity: 0.8
+}
+div.details{
+  position: relative; 
+}
+

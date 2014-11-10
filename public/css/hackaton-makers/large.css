@@ -5,4 +5,7 @@
     min-height: 100vh;
     display: table;
   }
+  div.owl-item div.row{
+    height: 500px;
+  }
 }
