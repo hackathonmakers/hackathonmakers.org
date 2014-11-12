@@ -78,9 +78,7 @@ div.parallax:nth-child(7) {
 div.parallax:nth-child(8) {
     background-image: url('/img/2015/background08.jpg');
 }
-div.parallax:nth-child(9) {
-    background-image: url('/img/2015/background09.jpg');
-}
+
 div.detail.row {
     background: rgba(255, 255, 255, 0.65);
     padding-left: 4em;
@@ -118,6 +116,8 @@ img.icon-medium{
 
 div.background-row{
   position: relative;
+  background: rgba(140, 140, 140, 0.36);
+  height: 465px;
 }
 div.background-image {
   position: absolute;
@@ -141,3 +141,6 @@ div.details{
   position: relative; 
 }
 
+div.menu{
+  padding-top: 1em;
+}

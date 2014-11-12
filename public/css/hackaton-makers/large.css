@@ -8,4 +8,7 @@
   div.owl-item div.row{
     height: 500px;
   }
+  .row .three.columns{
+    width: 25%
+  }
 }
