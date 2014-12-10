@@ -7,7 +7,7 @@ angular.module('hm-app.factories', []);
 angular.module('hm-app.fiters', []);
 
 // Declare app level module which depends on filters, and services
-angular.module('hm-app', [
+var app = angular.module('hm-app', [
   //'hm-app.filters',
   //'hm-app.services',
   //'hm-app.factories',
@@ -25,3 +25,14 @@ angular.module('hm-app', [
       });
   });
 
+
+app.run(['$rootScope', function ($rootScope) {
+
+     //create a new instance
+     new WOW().init();
+
+    $rootScope.$on('$routeChangeStart', function (next, current) {
+        //when the view changes sync wow
+        new WOW().sync();
+    });
+}]);
