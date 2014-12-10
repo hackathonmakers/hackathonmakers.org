@@ -5,7 +5,7 @@ Codigo oficial del sitio de HackathonMakers.org
 Forkealo y arma el tuyo.
 
 
-<img src="https://raw.githubusercontent.com/hackathonmakers/hackathonmakers.org/master/server/public/img/main-repo.jpg">
+<img src="https://raw.githubusercontent.com/hackathonmakers/hackathonmakers.org/master/public/img/main-repo.jpg">
 
 
 ### Version
@@ -55,7 +55,7 @@ Authors
 * [Franco Rabaglia]
 * [Marcos Vivar]
 
-* https://github.com/tinchoforever/sensor-journalism-kit-hhba
+
 
 License
 =======
