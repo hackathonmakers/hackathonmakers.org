@@ -11,4 +11,21 @@
   .row .three.columns{
     width: 25%
   }
+
+  div.detail.row {
+      padding-left: 4em;
+
+  }
+  .mobile-hide{
+    display: block !important;
+  }
+  .personas .row .item {
+    float: left;
+    text-align: center;
+  }
+  .round{
+        width: 200px;
+      height: 200px;
+  }
+
 }

@@ -18,18 +18,18 @@ h6 {
     display: table;
 }
 .round {
-    margin-top: 2xem;
+    margin-top: 2em;
     display: inline-block;
     position: relative;
     overflow: hidden;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     -moz-border-radius: 200px;
     border-radius: 200px;
     -webkit-border-radius: 200px;
 }
 .personas .row .item {
-    width: 33.33%;
+    width: 45%;
     float: left;
     text-align: center;
 }
@@ -81,11 +81,13 @@ div.parallax:nth-child(8) {
 
 div.detail.row {
     background: rgba(255, 255, 255, 0.65);
-    padding-left: 4em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
     display: table-cell;
     vertical-align: middle;
-    /*max-width: 40%;
-  width: 40%;*/
+    
 }
 div.detail div.copy {
     margin: auto;
@@ -143,4 +145,8 @@ div.details{
 
 div.menu{
   padding-top: 1em;
+}
+
+.mobile-hide{
+  display:none !important;
 }
