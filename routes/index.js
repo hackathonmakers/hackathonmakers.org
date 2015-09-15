@@ -13,5 +13,5 @@ exports.santafe2013 = function(req, res){
 };
 
 exports.home = function(req, res){
-  res.render('hackaton-makers/index', { title: 'Express' });
+  res.render('hackathon-makers/index', { title: 'Express' });
 };

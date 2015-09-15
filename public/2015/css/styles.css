@@ -1,0 +1,122 @@
+/* GREY #303E45 */
+
+
+/* GREEN #70D20F */
+
+body,
+html {
+    font-family: 'Roboto', serif;
+    font-weight: 100;
+    line-height: 250%;
+    /*Nav font*/
+}
+
+.nav {
+    height: 66px;
+    padding-top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    background-color: #303E45;
+}
+
+.module {
+    height: 70vh;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 19vh;
+}
+
+.init {
+    background-image: url("../images/background.png");
+}
+
+.people {
+    background-image: url("../images/people-background.png");
+}
+
+.shit-back {
+    background-color: #303E45;
+}
+
+.juicy-green-back {
+    background-color: #70D20F;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.green-title {
+    color: #70D20F;
+    font-weight: 600;
+    font-size: 2em;
+    padding-bottom: 1em;
+}
+
+.white-title {
+    color: #fff;
+    font-weight: 600;
+    font-size: 2em;
+    padding-bottom: 1em;
+}
+
+.logo {
+    padding: 1em;
+    width: 1.75em;
+}
+
+.iso-logo {
+    padding-top: 100px;
+    width: 500px;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.go-down {
+    padding-top: 20f0px;
+    width: 40px;
+}
+
+.bodoque-sup {
+    width: 300px;
+    height: 223px;
+    background-color: #70D20F;
+    color: #fff;
+    text-align: center;
+}
+
+.bodoque-inf {
+    width: 300px;
+    height: 280px;
+    background-color: white;
+}
+
+.bodoque-icon {
+    margin-top: 3em;
+    margin-bottom: 1.5em;
+}
+
+.bodoque-subtitle {
+    color: #70D20F;
+    font-size: 18px;
+    padding-top: 1em;
+    margin-bottom: 1em;
+}
+
+.content {
+    color: #6E838D;
+    font-size: 18px;
+    padding: 0.25em;
+    padding-top: 0.75em;
+    text-align: center;
+    line-height: 150%;
+}
+
+p {
+    padding-bottom: 1.5em;
+}
