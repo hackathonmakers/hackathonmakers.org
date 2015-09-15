@@ -21,7 +21,7 @@ html {
 }
 
 .module {
-    height: 70vh;
+    height: 82vh;
     width: 100%;
     margin: 0 auto;
     padding-top: 19vh;
@@ -119,4 +119,12 @@ html {
 
 p {
     padding-bottom: 1.5em;
+}
+
+
+div.next.module{
+    color:#6E838D;
+}
+div.next.module img{
+    max-width: 100%;
 }
